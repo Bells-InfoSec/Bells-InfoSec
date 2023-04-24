@@ -3,7 +3,7 @@
 <script src="https://tryhackme.com/badge/1263889"></script>
 <h1 align="center">Hi 👋, I'm Bells@InfoSec</h1>
 <h3 align="center">Cybersecurity researcher and consultant with experience in penetration testing, vulnerability assessments, and risk management. Dedicated to making the digital world a safer place.</h3>
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/code-coding-flying-through-code-e22-hacking-gif-15826314"> 
+<img align="right" alt="coding" width="400" src=src="https://tryhackme.com/badge/1263889"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bells-infosec&label=Profile%20views&color=0e75b6&style=flat" alt="bells-infosec" /> </p>
 
