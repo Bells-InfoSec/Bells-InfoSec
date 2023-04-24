@@ -3,9 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Bells@InfoSec</h1>
 <h3 align="center">Cybersecurity researcher and consultant with experience in penetration testing, vulnerability assessments, and risk management. Dedicated to making the digital world a safer place.</h3>
-<img align="right" alt="coding" width="400" src=src="https://tryhackme.com/badge/1263889"> 
 
-<p align="left"> <img src="https://tryhackme-badges.s3.amazonaws.com/pedantfinancial5.png" alt="TryHackMe">
+
+<p> <img src="https://tryhackme-badges.s3.amazonaws.com/pedantfinancial5.png" alt="TryHackMe">
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2bbf3a52005319.5901123c114f4.gif" alt="TryHackMe" height="100" width="150"></img> </p>
 
 - 🌱 I’m currently learning **latest tools and techniques for ethical hacking and penetration testing**
