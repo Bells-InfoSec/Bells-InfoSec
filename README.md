@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <img src="https://tryhackme-badges.s3.amazonaws.com/pedantfinancial5.png" alt="TryHackMe">
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2bbf3a52005319.5901123c114f4.gif" alt="TryHackMe">
 
 <h1 align="center">Hi 👋, I'm Bells@InfoSec</h1>
 <h3 align="center">Cybersecurity researcher and consultant with experience in penetration testing, vulnerability assessments, and risk management. Dedicated to making the digital world a safer place.</h3>
