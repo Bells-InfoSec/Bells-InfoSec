@@ -7,7 +7,7 @@
 
 
 <p align="center"> <img src="https://tryhackme-badges.s3.amazonaws.com/pedantfinancial5.png" alt="TryHackMe">
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2bbf3a52005319.5901123c114f4.gif" alt="TryHackMe" height="100" width="150"></img> </p>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2bbf3a52005319.5901123c114f4.gif" alt="TryHackMe" height="100" width="150"><img src="https://assets.tryhackme.com/room-badges/3aae58e2fc0ca98de48e2c87773b486f.png" alt="TryHackMe"></img> </p>
 
 - 🌱 I’m currently learning **latest tools and techniques for ethical hacking and penetration testing**
 
