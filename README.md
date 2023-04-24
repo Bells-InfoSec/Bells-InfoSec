@@ -1,4 +1,5 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF4p1UXBSs9J6R9dRjsf-WKmJ6jew4z1zPOq1K2w428ITUwu5D4M4wPO5G0lz4K5t7idU&usqp=CAU)]()
+
+<p align="center"> [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF4p1UXBSs9J6R9dRjsf-WKmJ6jew4z1zPOq1K2w428ITUwu5D4M4wPO5G0lz4K5t7idU&usqp=CAU)]()</p>
 
 
 <h1 align="center">Hi 👋, I'm Bells@InfoSec</h1>
